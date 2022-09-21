@@ -1,0 +1,9 @@
+1. Run in cmd: npm i -g create-react-app@1.5.2
+
+2. Search in VSCode: Simple React Snippets, Prettier Formatter for Visual Studio Code
+
+3. Create React App: create-react-app react-app
+
+4. Run Application: npm start
+
+5. Unistall React App: npm uninstall -g create-react-app
